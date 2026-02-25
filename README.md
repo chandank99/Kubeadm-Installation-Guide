@@ -1,6 +1,6 @@
 # Kubeadm Installation Guide
 
-This guide outlines the steps needed to set up a Kubernetes cluster using kubeadm...
+This guide outlines the steps needed to set up a Kubernetes cluster using kubeadm.
 
 ## Pre-requisites:
 * Ubuntu OS (Xenial or later)
