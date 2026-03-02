@@ -27,7 +27,7 @@ Run the following commands on both the master and worker nodes to prepare them f
 
  kubectl version --client
 
-# disable swap
+# disable swap 
 sudo swapoff -a
 
 # Create the .conf file to load the modules at bootup
