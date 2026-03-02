@@ -120,7 +120,7 @@ kubectl get nodes
 ```
 
 Link to the video tutorial: 
-
+----
 Follow our tutorials here: https://www.youtube.com/@amonkincloud/videos \
 Follow my personal blog here: https://dev.to/yeshwanthlm/ \
 Follow us on Instagram: https://www.instagram.com/amonkincloud/ \
